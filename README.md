@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="Life.jpg" alt="DarkWinzo" width="170" />
+<img src="https://github.com/DarkWinzo/Bosco/blob/main/Bosco.gif" width="400">
 
 # Bosco Bot
 
